@@ -1,0 +1,6 @@
+{
+  "telemetryLevel":"full",
+  "server":"https://speedtest.snetgh.com/",
+  "path":"results/telemetry.php",
+  "shareURL":"results/?id=%s"
+}

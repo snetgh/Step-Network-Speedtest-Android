@@ -1,0 +1,18 @@
+[
+  {
+    "name":"Step Network, Ghana",
+    "server":"//snet.nediaconsult.com/",
+    "dlURL":"garbage.php",
+    "ulURL":"empty.php",
+    "pingURL":"empty.php",
+    "getIpURL":"getIP.php"
+  },
+  {
+    "name":"Step Network 2, Ghana",
+    "server":"https://nediaconsult.com/",
+    "dlURL":"speed/garbage.php",
+    "ulURL":"speed/empty.php",
+    "pingURL":"speed/empty.php",
+    "getIpURL":"speed/getIP.php"
+  }
+]
